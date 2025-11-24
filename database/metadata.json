@@ -1,0 +1,18 @@
+{
+  "48P": {
+    "name": "Power",
+    "image_path": "database\\48P.jpg"
+  },
+  "23s": {
+    "name": "aldkj",
+    "image_path": "database\\23s.jpg"
+  },
+  "78": {
+    "name": "journey to the stars",
+    "image_path": "database\\78.jpg"
+  },
+  "89": {
+    "name": "outer space",
+    "image_path": "database\\89.jpg"
+  }
+}
